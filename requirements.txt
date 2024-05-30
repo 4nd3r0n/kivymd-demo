@@ -1,28 +1,19 @@
 asyncgui==0.6.1
 asynckivy==0.6.2
 Brotli==1.1.0
-buildozer==1.5.0
 certifi==2024.2.2
 charset-normalizer==3.3.2
-Cython==0.29.33
-distlib==0.3.8
 docutils==0.21.2
-filelock==3.14.0
 idna==3.7
 Kivy==2.3.0
 Kivy-Garden==0.1.5
-kivymd @ https://github.com/kivymd/KivyMD/archive/master.zip#sha256=df1e58217fb4cc8fa1b2214e53418139a19ba83c54a4ad430d23983b1a488d1c
+kivymd @ https://github.com/kivymd/KivyMD/archive/master.zip#sha256=22cda0fa7e4633d449e3cf9675456fe8939d4808848267070d9d9fd1a31b9165
 materialyoucolor==2.0.9
 mutagen==1.47.0
-pexpect==4.9.0
 pillow==10.3.0
-platformdirs==4.2.2
-ptyprocess==0.7.0
 pycryptodomex==3.20.0
 Pygments==2.18.0
 requests==2.32.3
-sh==2.0.6
 urllib3==2.2.1
-virtualenv==20.26.2
 websockets==12.0
 yt-dlp==2024.5.27
